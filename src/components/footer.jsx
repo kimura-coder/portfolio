@@ -5,7 +5,6 @@ function Footer() {
   return (
     <footer className="footer">
       <div className="footer-content">
-        <p>© {new Date().getFullYear()} Alfred Mwangi Kimura. All rights reserved.</p>
        <div className="contact-info">
         <p>📞 +254 746 520 817</p>
           <p>📍 Mombasa, Kenya</p>
@@ -19,6 +18,7 @@ function Footer() {
           <a href="mailto:kimuraalfred@gmail.com">Email</a>
         </div>
       </div>
+      <p>© {new Date().getFullYear()} Alfred Mwangi Kimura. All rights reserved.</p>
     </footer>
   );
 }

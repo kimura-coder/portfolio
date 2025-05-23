@@ -1,0 +1,47 @@
+.education-section {
+  background-color: #72dbee;
+  padding: 40px 20px;
+  border-radius: 8px;
+  margin: 40px auto;
+  max-width: 900px;
+}
+
+.section-title {
+  text-align: center;
+  font-size: 2rem;
+  color: #333;
+  margin-bottom: 30px;
+}
+
+.education-item {
+  background: #e5f0f3;
+  padding: 20px;
+  margin-bottom: 20px;
+  border-left: 4px solid #d9e8eb;
+  border-radius: 6px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.05);
+}
+
+.education-item h3 {
+  margin: 0;
+  font-size: 1.3rem;
+  color: #222;
+}
+
+.school-name {
+  font-style: italic;
+  color: #555;
+  margin-top: 5px;
+}
+
+.education-year {
+  font-weight: bold;
+  color: #007acc;
+  margin-top: 5px;
+}
+
+.education-desc {
+  margin-top: 10px;
+  color: #444;
+  line-height: 1.5;
+}
